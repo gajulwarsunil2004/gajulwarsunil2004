@@ -1,28 +1,26 @@
-## Hi 👋, I'm Sunil Gajulwar
+## # Hi 👋, I'm Sunil Gajulwar
 
-### 🎓 B.Tech CSE (AI & ML) Student | Aspiring Data Analyst & AI/ML Engineer
+### B.Tech CSE (AI & ML) Student | Aspiring Data Analyst & AI/ML Engineer
 
-- 🔭 I'm currently working on Data Analytics, Machine Learning, and AI projects.
-- 🌱 I'm currently learning Python, SQL, Power BI, Machine Learning, Deep Learning, and Generative AI.
-- 👯 I'm looking to collaborate on Data Analytics, AI, and Machine Learning projects.
-- 💬 Ask me about Python, SQL, Excel, Power BI, Data Analysis, and Machine Learning.
-- 📫 Reach me: your-email@example.com
+- 🔭 Currently working on AI Chatbot, Data Analytics and Machine Learning projects
+- 🌱 Currently learning Python, SQL, FastAPI, MySQL, Machine Learning and Generative AI
+- 👯 Looking to collaborate on Data Analytics, AI and Machine Learning projects
+- 💬 Ask me about Python, SQL, FastAPI, Power BI and Machine Learning
+- 📫 Reach me: gajulwarsunil@email.com
 
-## 🌐 Connect with Me
-- LinkedIn: YOUR_LINKEDIN_URL
+## 🌐 Connect with me [LinkedIn](gajulwar-sunil)
 
-## 💻 Skills
-- Python
-- SQL
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-- Git & GitHub
-- FastAPI
-- MySQL
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gajulwarsunil2004&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gajulwarsunil2004&layout=compact&theme=tokyonight)
